@@ -28,11 +28,11 @@ export default function Home() {
     <Container>
       <Container_Wrapper>
         <Hero />
-        <About />
-        {/* <Skills />
+        {/* <About /> */}
+        <Skills />
         <Experience />
-        <Blogs />
-        <Contact /> */}
+        {/* <Blogs /> */}
+        <Contact />
         <Footer />
       </Container_Wrapper>
     </Container>

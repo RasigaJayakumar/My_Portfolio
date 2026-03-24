@@ -1,4 +1,3 @@
-import styled from "styled-components";
 import { ThemeProvider } from "styled-components";
 import { useState } from "react";
 import GlobalStyles from "@/styles/globalStyles";
